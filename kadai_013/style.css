@@ -128,9 +128,9 @@ PC用のスタイル
     color: #ffffff;
   }
 
-  #nav-sp a:hover {
+  #nav-sp ul a:hover {
     color: #ffffff;
-    text-decoration: #ffffff;
+    text-decoration: underline;
   }
 
   #nav-sp a:active {
